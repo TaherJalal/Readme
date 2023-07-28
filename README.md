@@ -2,4 +2,4 @@
 I'm Taher
 it do be like that some times
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Taher's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaherJalal&show_icons=true&theme=radical)
